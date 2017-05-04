@@ -1,0 +1,13 @@
+{
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["es2017"],
+    "module": "commonjs",
+    "baseUrl": "src/",
+    "strict": true,
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
