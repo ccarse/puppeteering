@@ -1,4 +1,4 @@
-Download and try the code - http://github.com/ccarse/
+Download and try the code - http://github.com/ccarse/puppeteering
 
 - Automate certain training websites which don't have auto-play and make you wait upwards of 10 
   seconds after they're done playing a video to let you progress? 😉
